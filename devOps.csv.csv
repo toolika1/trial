@@ -1,0 +1,12 @@
+Concept,Relation,Terms
+DevOps,has subconcept,DevOps Principles/Devops Practise/DevOps Values/DevOps Tools/DevOps Architecture
+DevOps,related to,Incremental approch/the theory of constraints
+DevOps Principles,has subconcept,Iterative/Incremental/Continuous/Automated/Self-service/Collaborative/Holistic
+DevOps Practise,has subconcept,Self-service configuration/Automated provising/Continuous build/Continuous integration/Continuous delivery/Automated release management/Incremental testing
+DevOps Values,has subconcept,Foundation/Optimize/Transformation/devops Practise
+DevOps Tools,same as,DevOps ToolChain
+DevOps Tools,part of,Docker/Jekins/Puppet/Fabric8/Chef/Capistrano
+DevOps Architecture,related to,Microservices/Architecturally Significant Requirements (ASRs)
+ASRs,acronym,Architecturally Significant Requirements (ASRs)
+ASRs,comprises of,deployability/modifiability/testability/monitorability
+Incremental approch,comprises of,The First Way: Systems Thinking/The Second Way: Amplify Feedback Loops/The Third Way: Culture of Continual Experimentation and Learning
